@@ -11,7 +11,7 @@ li{
     list-style-type: none;
 }
 a{
-    text-decoration: none;
+/config/workspace/public    text-decoration: none;
 }
 .a-light{
     color:#000;
