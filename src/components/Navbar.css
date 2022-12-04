@@ -1,0 +1,31 @@
+.Navbar{
+     background-color:#EFF5F5;
+     padding:20px;
+}
+ul{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.a-light{
+    color:#000;
+}
+.a-dark{
+    color:#fff;
+}
+.nav-light{
+    background-color: darkgray;
+}
+.nav-dark{
+    background-color:#000;
+}
+.logo{
+    font-size:25px; 
+    font-weight:700;
+}
